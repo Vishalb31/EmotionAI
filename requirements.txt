@@ -1,0 +1,8 @@
+streamlit
+streamlit-webrtc
+deepface
+opencv-python-headless
+tensorflow==2.12.0
+tf-keras
+numpy
+Pillow
